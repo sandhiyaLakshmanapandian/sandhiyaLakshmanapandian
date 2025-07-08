@@ -71,7 +71,7 @@
 ### 🌐 **Connect with Me**
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sandhiya-l-483443264" target="blank">
+  <a href="https://www.linkedin.com/in/sandhiya-l-483443264" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
   <a href="mailto:sandhiyay2004@gmail.com" target="blank">
